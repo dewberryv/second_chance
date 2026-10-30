@@ -66,70 +66,37 @@ pytest
 
 ## Скриншоты
 
-Резиденты:
+### Резиденты и поиск
+<img src="docs/screenshots/residents.png" width="800" alt="Список резидентов">
 
-![Вкладка Резиденты](docs/screenshots/residents.png)
+<img src="docs/screenshots/addition-of-a-resident-into-the-system-by-an-admin.png" width="500" alt="Добавление резидента администратором">
 
-Комнаты:
+### ИПР и мероприятия
+<img src="docs/screenshots/ipr.png" width="800" alt="Список ИПР">
 
-![Вкладка Комнаты](docs/screenshots/rooms.png)
+<img src="docs/screenshots/events.png" width="800" alt="Мероприятия">
 
-ИПР:
+### Склад и выдача помощи
+<img src="docs/screenshots/warehouse.png" width="800" alt="Склад">
 
-![Вкладка ИПР](docs/screenshots/IPR.png)
+<img src="docs/screenshots/distribution-of-aid.png" width="800" alt="Выдача помощи">
 
-Мероприятия:
+### Отчёты и статистика
+<img src="docs/screenshots/reports.png" width="800" alt="Отчёты">
 
-![Вкладка Мероприятия](docs/screenshots/events.png)
+<img src="docs/screenshots/statistics.png" width="800" alt="Статистика">
 
-Склад:
+<details>
+<summary>Ещё скриншоты: формы, отчёты, CSV</summary>
 
-![Вкладка Склад](docs/screenshots/warehouse.png)
+<img src="docs/screenshots/ipr-assignment-by-curator.png" width="500" alt="Создание ИПР куратором">
+<img src="docs/screenshots/event-assignment-by-curator.png" width="500" alt="Создание мероприятия куратором">
+<img src="docs/screenshots/supplement-of-warehouse-by-admin.png" width="500" alt="Пополнение склада администратором">
+<img src="docs/screenshots/aid-distribution-by-admin.png" width="500" alt="Выдача помощи администратором">
+<img src="docs/screenshots/rooms.png" width="800" alt="Комнаты и заполненность">
+<img src="docs/screenshots/current-list-of-residents.png" width="800" alt="Отчёт: текущий состав">
+<img src="docs/screenshots/fulfillment-of-ipr.png" width="800" alt="Отчёт: выполнение ИПР">
+<img src="docs/screenshots/distribution-of-aid-report.png" width="800" alt="Отчёт: выдача помощи">
+<img src="docs/screenshots/csv-format-working-for-reports.png" width="800" alt="Выгрузка отчёта в CSV">
 
-Выдача помощи:
-
-![Вкладка Выдача помощи](docs/screenshots/distribution of aid.png)
-
-Отчеты:
-
-![Вкладка Отчеты](docs/screenshots/reports.png)
-
-Текущий состав резидентов (один из отчетов):
-
-![Вкладка Текущий состав резидентов](docs/screenshots/current list of residents.png)
-
-Форматирование отчета в .csv формат:
-
-![Вкладка Форматирование отчета в .csv формат](docs/screenshots/csv format working for reports.png)
-
-Выполнение ИПР (один из отчетов):
-
-![Выполнение ИПР](docs/screenshots/fulfillment of IPR.png)
-
-Выдача помощи (один из отчетов):
-
-![Выдача помощи](docs/screenshots/distribution of aid report.png)
-
-Статистика:
-
-![Статистика](docs/screenshots/statistics.png)
-
-Назначение ИПР куратором:
-
-![Назначение ИПР куратором](docs/screenshots/IPR assignment by curator.png)
-
-Назначение мероприятий куратором:
-
-![Назначение мероприятий куратором](docs/screenshots/event assignment by curator.png)
-
-Добавление резидента в систему админом:
-
-![Добавление резидента в систему админом](docs/screenshots/addition of a resident into the system by an admin.png)
-
-Пополнение склада админом:
-
-![Пополнение склада админом](docs/screenshots/supplement of warehouse by admin.png)
-
-Выдача помощи админом:
-
-![Выдача помощи админом](docs/screenshots/aid distribution by admin.png)
+</details>
